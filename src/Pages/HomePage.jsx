@@ -13,7 +13,7 @@ const HomePage = () => {
                         <div className="relative slider-height h-56 overflow-hidden rounded-lg md:h-96">
                             {/* Item 1 */}
                             <div className="hidden duration-700 ease-in-out" data-carousel-item>
-                                <img src="/img/close-up-delicious-chicken-meal.jpg" className="absolute block w-full slider-height -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
+                                <img src="/public/img/close-up-delicious-chicken-meal.jpg" className="absolute block w-full slider-height -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2" alt="..." />
                             </div>
                             {/* Item 2 */}
                             <div className="hidden duration-700 ease-in-out" data-carousel-item>
